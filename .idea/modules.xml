@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boite Noire/Boite Noire.iml" filepath="$PROJECT_DIR$/Boite Noire/Boite Noire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boite noire/Boite noire.iml" filepath="$PROJECT_DIR$/Boite noire/Boite noire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convertisseur 1/Convertisseur 1.iml" filepath="$PROJECT_DIR$/Convertisseur 1/Convertisseur 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convertisseur 2/Convertisseur 2.iml" filepath="$PROJECT_DIR$/Convertisseur 2/Convertisseur 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Experience verte/Experience verte.iml" filepath="$PROJECT_DIR$/Experience verte/Experience verte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geometrie/Geometrie.iml" filepath="$PROJECT_DIR$/Geometrie/Geometrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratoire A.iml" filepath="$PROJECT_DIR$/Laboratoire A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pythagore/Pythagore.iml" filepath="$PROJECT_DIR$/Pythagore/Pythagore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resolution/Resolution.iml" filepath="$PROJECT_DIR$/Resolution/Resolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typage/Typage.iml" filepath="$PROJECT_DIR$/Typage/Typage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vecteurs/Vecteurs.iml" filepath="$PROJECT_DIR$/Vecteurs/Vecteurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" filepath="$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" />
+    </modules>
+  </component>
+</project>
